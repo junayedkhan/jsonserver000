@@ -1,5 +1,4 @@
-{
- "blogs": [
+[
       {
           "id": 1,
           "img": "https://demo.creativethemes.com/blocksy/gadgets/wp-content/uploads/2022/05/article-image-5-1024x849.webp",
@@ -42,5 +41,4 @@
           "title": "Tristique Magna Amet Purus Gravida Quisblandit",
           "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do"
       }
-  ]
-}
+]

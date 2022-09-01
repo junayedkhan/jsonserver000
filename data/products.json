@@ -1,5 +1,4 @@
-{
-  "products" : [
+[
   {
       "id": 1,
       "img": "https://res.cloudinary.com/dfdrkfy6y/image/upload/v1654617762/gadgets/product-1_a585c0.webp",
@@ -63,5 +62,4 @@
       "price": "799.00",
       "meta": "mobile"
   }
-  ]
-}
+]
